@@ -67,6 +67,14 @@ A game developed as a personal project using **Unity**.
 </p>
 
 ---
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=miroku312&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miroku312&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=miroku312&theme=tokyonight&hide_border=true" />
+</p>
 
 <div align="center">
   <img src="https://i.pinimg.com/736x/9c/c6/fa/9cc6fa047d2fcf47e3d9357a8f194984.jpg" 
