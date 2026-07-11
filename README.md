@@ -3,7 +3,7 @@
   <h3>DevOps Engineer & Future Computer Engineer</h3>
 </div>
 
-<img src="https://i.imgur.com/твоя_картинка.png" width="100%" height="300px" style="border-radius: 15px;"/>
+<img src="[https://www.hiclipart.com/free-transparent-background-png-clipart-zwyqu" width="100%" height="300px" style="border-radius: 15px;"/>
 
 <div align="center">
   <h2>👋 Welcome to my Profile</h2>
