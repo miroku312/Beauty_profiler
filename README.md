@@ -9,9 +9,6 @@
        width="45%" 
        style="border-radius: 15px;"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=miroku312&theme=tokyonight&hide_border=true" />
-</p>
 
 <div align="center">
   <h2>Welcome to my Profile</h2>
