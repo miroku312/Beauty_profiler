@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hello Admissions committee of AIU👋</h1>
-  <h3>DevOps Engineer & Future Computer Engineer</h3>
+  <h1>Hello, AIU Admissions Committee! 👋</h1>
+  <h3>DevOps & Computer Engineering Student</h3>
 </div>
 
 <p align="center">
