@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/736x/73/0f/2c/730f2c2aaa92463b6bc31e5f5edb190d.jpg" 
        alt="Banner" 
-       width="60%" 
+       width="40%" 
        style="border-radius: 15px;"/>
 </p>
 
@@ -25,20 +25,29 @@
 
 ---
 
-## Featured Production Projects
+## Production web platform.
+**My contribution**
 
-** Workspace Direct** — [workspace-direct.com](https://workspace-direct.com)  
+- Docker deployment
+- Linux server administration
+- Nginx Reverse Proxy
+- SSL configuration
+- CI/CD pipelines
+- Monitoring & maintenance
+
+Workspace Direct — [workspace-direct.com](https://workspace-direct.com)  
 Мультимодульная веб-платформа для управления рабочим пространством.  
 **Стек:** Next.js, Django, Nginx, Docker.
 
-** Edu ERP** — [edu-erp.today](https://edu-erp.today)  
+Edu ERP — [edu-erp.today](https://edu-erp.today)  
 Масштабируемая ERP-система для автоматизации образовательных процессов.
 
-** Tournament System** — [tournament-system.digital](https://tournament-system.digital)  
+Tournament System — [tournament-system.digital](https://tournament-system.digital)  
 Платформа для организации и проведения турниров.
 
-** Asman Tourism** — [asmantourism.info](https://asmantourism.info)  
+ Asman Tourism — [asmantourism.info](https://asmantourism.info)  
 Высоконагруженная веб-платформа для туристического сектора.
+
 
 ---
 
