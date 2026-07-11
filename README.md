@@ -3,7 +3,7 @@
   <h3>DevOps Engineer & Future Computer Engineer</h3>
 </div>
 
-<img src="[https://www.hiclipart.com/free-transparent-background-png-clipart-zwyqu" width="100%" height="300px" style="border-radius: 15px;"/>
+<img src="https://www.hiclipart.com/free-transparent-background-png-clipart-zwyqu](https://i.pinimg.com/736x/73/0f/2c/730f2c2aaa92463b6bc31e5f5edb190d.jpg)" width="100%" height="300px" style="border-radius: 15px;"/>
 
 <div align="center">
   <h2>👋 Welcome to my Profile</h2>
