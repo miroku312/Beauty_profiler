@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>~ Hi, I'm Emir.B ~</h1>
+  <h1> Hello or Sallam Aleykum my name is Emir.B </h1>
   <h3>DevOps Engineer & Future Computer Engineer</h3>
 </div>
 
@@ -7,7 +7,7 @@
   <img
     src="https://i.pinimg.com/736x/73/0f/2c/730f2c2aaa92463b6bc31e5f5edb190d.jpg"
     alt="Banner"
-    width="100%"
+    width="50%"
   />
 </p>
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - **Name:** Emir Bekzhanov (Miroku)
 - **Current Role:** DevOps Engineer at Alifgroup
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠 Skills & Technologies
+## Skills & Technologies 
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
