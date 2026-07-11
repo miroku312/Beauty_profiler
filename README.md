@@ -25,16 +25,34 @@
 
 ---
 
-## Featured Projects (Production)
+## Featured Projects
 
-**production workspace-direct.com**  
-Production project — Development and support of workspace infrastructure by alifgroup.
+### Workspace Direct (Production)
+**Production infrastructure project**  
+Development and maintenance of production infrastructure as part of my work at **Alif Group**.
 
-** NANO Crypto Platform**  
-Cryptocurrency platform with high security and performance requirements. This project unshowable cuz of polites
+> *Source code is private.*
 
-** Chain-Browser**  
-My favourite project which will be shown in future 🕜
+---
+
+### ₿ Crypto Simulator
+A cryptocurrency platform prototype focused on secure transactions, wallet management, and backend architecture.
+
+🔗 **Repository:** https://github.com/miroku312/Crypto_simulator
+
+---
+
+### THE GAME MAP Genshin Interactive Map
+An interactive map for **Genshin Impact** with markers and navigation features.
+
+🔗 **Repository:** https://github.com/kamitairova/GenshinMap
+
+---
+
+### GAME Emir's Dormshade
+A game developed as a personal project using **Unity**.
+
+🔗 **Repository:** https://github.com/elifdigitals/Emirs-Dormshade/tree/main/Emirs-Dormshade
 ---
 
 ## Skills & Technologies
