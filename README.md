@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello or Salam Aleykum! My name is Emir.B 👋</h1>
+  <h1>Salam Aleykum! My name is Emir.B 👋</h1>
   <h3>DevOps Engineer & Future Computer Engineer</h3>
 </div>
 
