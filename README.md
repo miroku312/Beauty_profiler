@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/736x/73/0f/2c/730f2c2aaa92463b6bc31e5f5edb190d.jpg" 
        alt="Banner" 
-       width="70%" 
+       width="45%" 
        style="border-radius: 15px;"/>
 </p>
 
@@ -20,7 +20,7 @@
 
 - **Name:** Emir Bekzhanov (Miroku)
 - **Current Role:** DevOps Engineer at Alif Group
-- **Education:** Computer Engineering @ Ala-Too International University
+- **Education:** Computer Engineering @ Ala-Too College & International University
 - **Interests:** System Architecture • Cloud Solutions • High-load Systems • Automation • DevOps
 
 ---
