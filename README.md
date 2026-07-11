@@ -66,6 +66,14 @@ A game developed as a personal project using **Unity**.
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
 </p>
 
+### 🌐 [Workspace Direct](https://workspace-direct.com) — Web Ecosystem
+Мультимодульная веб-экосистема для управления рабочим пространством.
+
+* **Стек:** Next.js (Frontend), Django (Backend), Nginx (Reverse Proxy).
+* **Статус:** 
+  [![Production](https://img.shields.io/badge/Status-Production-green?style=flat-square&logo=statuspage&logoColor=white)](https://workspace-direct.com)
+  [![Live Website](https://img.shields.io/badge/Visit-workspace--direct.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://workspace-direct.com)
+  
 ---
 
 <div align="center">
